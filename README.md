@@ -237,3 +237,6 @@ This repository serves as the official landing page for Angry IP Scanner. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Angry IP Scanner today!**
+
+---
+**Last updated:** 2026-09-07 16:57:45 UTC
