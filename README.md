@@ -239,4 +239,4 @@ This repository serves as the official landing page for Angry IP Scanner. The so
 **Get the most recent version of Angry IP Scanner today!**
 
 ---
-**Last updated:** 2026-09-26 23:17:58 UTC
+**Last updated:** 2026-09-27 02:51:04 UTC
